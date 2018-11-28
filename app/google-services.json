@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "159121051814",
+    "firebase_url": "https://kick-start-3817e.firebaseio.com",
+    "project_id": "kick-start-3817e",
+    "storage_bucket": "kick-start-3817e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159121051814:android:fde0a37a9e789e9a",
+        "android_client_info": {
+          "package_name": "com.example.joshua.kickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159121051814-dpj2836pghmfn657hc5vbsfpki97m6be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joshua.kickstart",
+            "certificate_hash": "a5814b14a6e79016b1cde47aad5ceea6dda32da5"
+          }
+        },
+        {
+          "client_id": "159121051814-kuq20k4em2m1teqgke5rnpac9fdu3r4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joshua.kickstart",
+            "certificate_hash": "9ab541833ce9a9455b874302c334728ffbdf20ef"
+          }
+        },
+        {
+          "client_id": "159121051814-lu4jjvpnu0a9lqpatr1at3pbdbcvh0q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOjiVeeyNqJCSkmwd7ywaYBVZ3n-I1Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159121051814-lu4jjvpnu0a9lqpatr1at3pbdbcvh0q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
